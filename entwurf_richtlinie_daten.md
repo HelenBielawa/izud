@@ -2,11 +2,11 @@
 
 **Entwurf**
 
-**Die Stadt Bielefeld verfolgt das Zielbild einer Smart City. Dieses beschreibt, wie unsere Stadt sich anfühlt, wenn wir die Vorteile von analoger und digitaler Welt miteinander kombinieren, um Mehrwerte für Mensch und Natur zu schaffen. Die Digitalisierung der Stadt orientiert sich an den Bedarfen und Bedürfnissen der Menschen. Daten sind ein zentraler Baustein der Digitalisierung, weshalb der Umgang mit diesen eine hohe Verantwortung birgt. Aus diesem Grund heraus definiert diese Richtlinie den Umgang mit Daten in der Stadt Bielefeld und schafft damit die Grundlage, für Datensouveränität als wichtigen Baustein zur gemeinwohlorientierten Gestaltung der Smart City Bielefeld.**
+**Die Stadt Bielefeld verfolgt das Zielbild einer Smart City, die die Vorteile von analoger und digitaler Welt miteinander kombiniert, um Mehrwerte für Mensch und Natur zu schaffen. Die Digitalisierung der Stadt orientiert sich an den Bedarfen und Bedürfnissen der Menschen. Daten sind ein zentraler Baustein der Digitalisierung, weshalb der Umgang mit diesen eine hohe Verantwortung birgt. Aus diesem Grund heraus definiert diese Richtlinie den Umgang mit Daten in der Stadt Bielefeld, sowohl seitens der Stadtverwaltung als auch seitens weiterer Akteure, die die Richtlinie unterzeichnet haben. Ziel ist die Erreichung von offener Datensouveränität: Die Stadtverwaltung möchte die Datensouveränität in einem ersten Schritt erlangen, um die Daten in einem zweiten Schritt zu teilen. Auf diese Weise soll die ganze Stadtgesellschaft zum Datensouverän werden und von den Daten profitieren.**
 
 **Dennoch ist sich die Stadt Bielefeld bewusst darüber, dass die Richtlinie als Grundsatz für den weiteren Umgang mit Daten verstanden wird und kein Garant für gemeinwohlorientiertes Handeln sowie den Einbezug und Schutz vulnerabler Gruppen bedeutet. Die ständige Reflexion sowie Anpassungen bei Bedarf werden vorausgesetzt. Die Richtlinie ist ein Teilaspekt einer ganzheitlichen Datenstrategie für Bielefeld.**
 
-**Die Stadt Bielefeld wirkt bei ihren Beteiligungen im Rahmen von Smart City Aktivitäten auf eine Übernahme der Vereinbarung zum Umgang mit Daten in der Stadt Bielefeld hin. Um eine größtmögliche Anschlussfähigkeit der Vereinbarung zu erzielen, wird diese von Akteuren aus Verwaltung, Wissenschaft, Wirtschaft und Zivilgesellschaft erarbeitet. Ziel ist die gemeinschaftliche Einhaltung der definierten Leitlinien bei der Verfolgung des gemeinsamen Zielbildes einer Smart City.**
+**Die Stadt Bielefeld wirkt bei ihren Beteiligungen auf eine Übernahme der Vereinbarung zum Umgang mit Daten in der Stadt Bielefeld hin. Um eine größtmögliche Anschlussfähigkeit der Vereinbarung zu erzielen, wird diese von Akteuren aus Verwaltung, Wissenschaft, Wirtschaft und Zivilgesellschaft erarbeitet. Ziel ist die gemeinschaftliche Einhaltung der definierten Leitlinien bei der Verfolgung des gemeinsamen Zielbildes einer Smart City.**
 
 **Die Richtlinie zum Thema Datensouveränität umschließt Leitlinien für die Erhebung, Nutzung und Bereitstellung von stadtbezogenen Daten. Folgende sieben Leitlinien werden festgehalten:**
 
@@ -22,11 +22,13 @@ Die Privatsphäre der Einwohner\*innen der Stadt Bielefeld steht an erster Stell
 
 Bei der Erhebung, Speicherung, Verarbeitung, Zusammenführung mit anderen Daten, Weitergabe, Verkauf, Auswertung, Kategorisierung und Veröffentlichung von Daten ist der Datenschutz von Anfang an zu berücksichtigen. Personenbezogene Daten unterliegen dem von der Verfassung und der ständigen Rechtsprechung garantierten Recht des Einzelnen auf informationelle Selbstbestimmung. Mit „Privacy by Design" wird sichergestellt, dass bei der Erhebung und Verarbeitung personenbezogener Daten nur die erforderlichen Daten erhoben werden und diese sicher geschützt bleiben. Die Erfassung und gegebenenfalls Weitergabe von personenbezogenen Daten geschehen nicht zum Zwecke eines Verkaufs oder Erlangung einer geldwerten Leistung.
 
+Ziel ist, möglichst viele Daten durch Anonymisierung/Pseudonymisierung nutzbar zu machen.
+
 3.  **Datenethik**
 
 Der ethische Ordnungsrahmen der Stadt Bielefeld bezieht sich auf die Empfehlungen der Datenethikkommission[^3], welche federführend im Bundesministerium des Innern und Heimat (BMI) und dem Bundesministerium der Justiz (BMJ) liegt. Stadtbezogene Daten werden ausschließlich im Sinne des Allgemeinwohls erhoben und genutzt.
 
-Die Leitgedanken sind Menschenzentrierte und wertorientierte Gestaltung von Technologie; Förderung digitaler Kompetenzen und kritischer Reflexion in der digitalen Welt; Stärkung des Schutzes von persönlicher Freiheit, Selbstbestimmung und Integrität; Förderung verantwortungsvoller und gemeinwohlverträglicher Datennutzungen; Risikoadaptierte Regulierung und wirksame Kontrolle algorithmischen Systeme; Wahrung und Förderung von Demokratie und gesellschaftlichem Zusammenhalt; Ausrichtung digitaler Strategien an Zielen der Nachhaltigkeit sowie die Stärkung der digitalen Souveränität Deutschlands und Europas.
+Die Leitgedanken sind menschenzentrierte und wertorientierte Gestaltung von Technologie; Förderung digitaler Kompetenzen und kritischer Reflexion in der digitalen Welt; Förderung des Zugangs zu Hardware und Internetzugang; Stärkung des Schutzes von persönlicher Freiheit, Selbstbestimmung und Integrität; Förderung verantwortungsvoller und gemeinwohlverträglicher Datennutzungen; Risikoadaptierte Regulierung und wirksame Kontrolle algorithmischen Systeme; Wahrung und Förderung von Demokratie und gesellschaftlichem Zusammenhalt; Ausrichtung digitaler Strategien an Zielen der Nachhaltigkeit sowie die Stärkung der digitalen Souveränität Deutschlands und Europas.
 
 Sobald der vorhandene rechtliche Rahmen, durch neue Vorgaben überholt werden, müssen ethische Folgen nach bestem Wissen und Gewissen reflektiert und die Leitlinien weiterentwickelt werden.
 
@@ -40,9 +42,9 @@ Die hier formulierte Leitlinie für Datenhoheit wird in Ausschreibungsverfahren 
 
 5.  **Transparenz**
 
-Die gewonnenen Datenbestände, die im Interesse der Allgemeinheit der Gesellschaft sind, werden ohne jedwede Einschränkung zur freien Nutzung, zur Weiterverbreitung und zur freien Weiterverwendung als Open Data frei zugänglich gemacht. Ziel städtischen Handelns ist es, stadtbezogene Daten transparent, barrierefrei, vollständig, maschinell abrufbar und nachhaltig bereitzustellen.
+Die gewonnenen Datenbestände werden ohne jedwede Einschränkung zur freien Nutzung, zur Weiterverbreitung und zur freien Weiterverwendung als Open Data frei zugänglich gemacht. Ziel städtischen Handelns ist es, stadtbezogene Daten transparent, barrierefrei, vollständig, maschinell abrufbar und nachhaltig bereitzustellen.
 
-Dabei setzt die Stadtverwaltung neben offenen Daten auf offene Standards, welche die Koordination zwischen der Verwaltung, Wirtschaft, Wissenschaft und Zivilgesellschaft und somit die Zusammenarbeit verbessern wird. Innovationen und Verbesserungen des städtischen Zusammenlebens zur Erreichung des Smart City Zielbildes werden durch die offene Bereitstellung aller erhobenen Daten, die nicht zum Nachteil der Stadtgesellschaft sind, gefördert. Die Nutzung von etablierten Standards stellt die Weiterverwendung der Daten sicher.
+Dabei setzt die Stadtverwaltung neben offenen Daten auf offene Standards und offene Schnittstellen, welche die Koordination zwischen der Verwaltung, Wirtschaft, Wissenschaft und Zivilgesellschaft und somit die Zusammenarbeit verbessern wird. Innovationen und Verbesserungen des städtischen Zusammenlebens zur Erreichung des Smart City Zielbildes werden durch die offene Bereitstellung aller erhobenen Daten gefördert. Die Nutzung von etablierten Standards stellt die Weiterverwendung der Daten sicher.
 
 Ziel ist es, die Vorteile der Nutzung vorhandener Daten in vollem Maße auszuschöpfen, um Transparenz zu schaffen, Wissen zugänglich zu machen, die Stadtgesellschaft zu beteiligen, vorhandene Verwaltungsleistungen zu verbessern, neue Erkenntnisse durch wissenschaftliche Auseinandersetzungen auf der Grundlage von Daten zu gewinnen und neue Betriebs- und Geschäftsmodelle zu ermöglichen.
 
